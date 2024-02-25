@@ -1,2 +1,2 @@
 # WebSiteDemo
-Testing and Learning How HTML and CSS works more. 
+Thai restuarant website using HTML & CSS. 
