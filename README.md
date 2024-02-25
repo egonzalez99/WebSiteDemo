@@ -1,2 +1,2 @@
 # WebSiteDemo
-Thai restuarant website using HTML & CSS. 
+Thai restaurant website using HTML & CSS. 
